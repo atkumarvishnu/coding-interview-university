@@ -225,7 +225,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - [x] `git push --set-upstream origin progress`
 
-- [x]  `git push --force`
+- [x]  `git push --force` :100:	
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
